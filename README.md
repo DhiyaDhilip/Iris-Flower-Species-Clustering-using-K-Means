@@ -1,3 +1,5 @@
+
+# Iris-Flower-Species-Clustering-using-K-Means:
 Developed a machine learning project to cluster Iris flowers based on sepal and petal features using K-Means. Performed EDA, scaling, inertia & silhouette analysis to find optimal clusters. Deployed a Streamlit app to predict cluster assignments for new samples in real-time.
 
 # 🌼 Iris Flower Species Clustering using K-Means
