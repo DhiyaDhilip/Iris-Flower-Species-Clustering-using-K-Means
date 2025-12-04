@@ -1,2 +1,1 @@
-# Customer-Segmentation-using-K-Means-Clustering
-Developed an unsupervised machine learning pipeline using K-Means clustering to segment data into meaningful groups. Performed full EDA, feature scaling, elbow method, and silhouette evaluation. Saved the best model and deployed a Streamlit app for real-time clustering predictions.
+Developed a machine learning project to cluster Iris flowers based on sepal and petal features using K-Means. Performed EDA, scaling, inertia & silhouette analysis to find optimal clusters. Deployed a Streamlit app to predict cluster assignments for new samples in real-time.
